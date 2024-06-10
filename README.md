@@ -1,7 +1,7 @@
 # MinecatNET
 https://minecat.net/
 
-##Management & Development
+## Management & Development
 * spleef.net
 * pkey.org
 * keyblade.org
