@@ -8,6 +8,6 @@
 ## Past projects
 
     spleef.net
-    survival.black
-    weeb.online
-    tinymc.net
+    ~~survival.black~~
+    ~~weeb.online~~
+    ~~tinymc.net~~
