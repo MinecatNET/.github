@@ -1,9 +1,9 @@
 # MinecatNET
 [minecat.net](https://minecat.net)
-## Current/Future projects
+## Current projects
 
-*minecat.net
-*spleef.net
+* minecat.net
+* spleef.net
 * pkey.org
 * keyblade.org
 
