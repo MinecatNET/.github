@@ -1,12 +1,11 @@
-#MinecatNET
-
+# MinecatNET
 [minecat.net](https://minecat.net)
-##Future projects
+## Future projects
 
     pkey.org
     keyblade.org
 
-##Past projects
+## Past projects
 
     spleef.net
     survival.black
