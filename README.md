@@ -1,5 +1,5 @@
 # MinecatNET
-https://minecat.net/
+<link href="https://minecat.net/">minecat.net</link>
 
 ## Management & Development
 * spleef.net
